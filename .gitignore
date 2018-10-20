@@ -1,6 +1,3 @@
 # Compiled source #
 ###################
 C#/ProductsApp/bin/*
-# Packages #
-############
-c#/packages/*
