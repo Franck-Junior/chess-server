@@ -1,6 +1,7 @@
 # Compiled source #
 ###################
 C#/ProductsApp/bin/*
+C#/ProductsApp/obj/*
 
 # Project source #
 ##################
