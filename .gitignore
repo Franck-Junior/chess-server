@@ -1,3 +1,7 @@
 # Compiled source #
 ###################
 C#/ProductsApp/bin/*
+
+# Project source #
+##################
+C#/.vs/*
