@@ -1,0 +1,7 @@
+http://chessboardjs.com/docs#position_object
+https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation
+https://en.wikipedia.org/wiki/Chess_notation#Notation_systems_for_computers
+https://en.wikipedia.org/wiki/Portable_Game_Notation
+http://chessboardjs.com/examples#1003
+http://chessboardjs.com/examples#4000
+https://www.draw.io/
